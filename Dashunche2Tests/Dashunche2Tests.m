@@ -38,5 +38,13 @@
 - (void)textLearnGit
 {
     // 学习git
+    int y = 1;
+    y = 2;
+    if (y) {
+        [self testExample];
+    }else {
+        // 测试添加第二版本
+    }
+    
 }
 @end
