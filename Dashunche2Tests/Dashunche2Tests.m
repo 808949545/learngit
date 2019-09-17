@@ -35,5 +35,8 @@
         // Put the code you want to measure the time of here.
     }];
 }
-
+- (void)textLearnGit
+{
+    // 学习git
+}
 @end
