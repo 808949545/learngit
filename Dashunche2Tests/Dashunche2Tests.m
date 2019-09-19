@@ -44,6 +44,9 @@
         [self testExample];
     }else {
         // 测试添加第二版本
+        //链接远程仓库github 成功
+        //再次链接储存库
+
     }
     
 }
